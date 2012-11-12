@@ -1,0 +1,11 @@
+package ch1;
+
+import org.apache.hadoop.mapreduce.Reducer;
+import org.apache.hadoop.io.Text;
+
+public class WordFileNameReducer 
+	extends Reducer<Text,Text,Text,Text> {
+	
+	
+
+}

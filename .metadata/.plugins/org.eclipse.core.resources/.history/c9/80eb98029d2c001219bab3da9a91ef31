@@ -1,0 +1,26 @@
+package ch1;
+
+import org.apache.hadoop.conf.Configuration;
+import org.apache.hadoop.mapreduce.Job;
+
+import java.io.IOException;
+
+
+public class Driver {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) throws IOException{
+		// TODO Auto-generated method stub
+
+		Configuration conf = new Configuration();
+		
+		Job job = Job.getInstance(conf);
+		
+		job.setJobName("wordFileNameJob") ;
+		job.setJarByClass(Driver.class);
+		
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;ch1.Mapper&apos; to &apos;WordFileNameMapper&apos;&#x0A;- Original project: &apos;HadoopInPractice&apos;&#x0A;- Original element: &apos;ch1.Mapper&apos;&#x0A;- Renamed element: &apos;ch1.WordFileNameMapper&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Mapper&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;ch1{Mapper.java[Mapper" matchStrategy="1" name="WordFileNameMapper" qualified="false" references="true" similarDeclarations="false" stamp="1352703892671" textual="false" version="1.0"/>
+</session>
