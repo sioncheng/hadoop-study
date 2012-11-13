@@ -1,8 +1,0 @@
-cd $HADOOP_HOME
-bin/hadoop fs -put $HadoopInPractice_HOME/data/names?.txt input
-mkdir jobs
-cd jobs
-jar cvf HadoopInPractice.jar -C $HadoopInPractice_HOME/bin .
-cd ..
-bin/hadoop fs -rmr output
-bin/hadoop ./jobs/HadoopInPractice.jar ch1.Driver input/names?.txt output

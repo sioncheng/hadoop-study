@@ -10,7 +10,6 @@ import java.io.IOException;
 import java.lang.InterruptedException;
 
 
-
 public class WordFileNameMapper 
 	extends Mapper<LongWritable,Text,Text,Text> {
 
@@ -25,8 +24,7 @@ public class WordFileNameMapper
 	
 	@Override
 	public void map(LongWritable key,Text value,Context context)
-		throws IOException,InterruptedException{
-		
+		throws IOException,InterruptedException{		
 		
 		context.write(value, documentId);
 	}

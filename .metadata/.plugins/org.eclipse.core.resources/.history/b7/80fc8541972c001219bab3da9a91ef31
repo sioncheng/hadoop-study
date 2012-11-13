@@ -1,8 +1,0 @@
-package ch1;
-
-import org.apache.hadoop.mapreduce.Mapper;
-import org.apache.hadoop.mapreduce.MapContext;
-
-public class Mapper extends Mapper{
-
-}
