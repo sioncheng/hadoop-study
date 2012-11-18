@@ -1,0 +1,38 @@
+#customer_id,good_name
+1,iphone4
+2,macbook pro mc723
+3,htc 8x
+4,samsung galax I
+1,thinkpad x1
+5,nexus tab 7
+6,sumsang 830 ssd
+7,ipod class 3
+3,ipad 3
+2,iphone 4s
+8,mac mini
+9,mac pro
+10,imac
+11,samsung 9300
+12,nokia lumia 900
+13,thinkpad x230
+14,samsung 830 ssd 256g
+15,kingston 1333 4G * 2
+10,apple magic mouse
+9,TPLink TL-920
+11,sennheiser hd598
+16,powersync ukm-922
+17,westdata 2TB
+18,it-ceo 2.5inch diskdriver box
+19,kingston 1600 8g*2
+20,intel 520 128g ssd
+21,crucial 60g ssd
+22,crucial CT256M4SSD2
+17,crucial CT128M4SSD2
+23,samsung i9300
+24,nikon d5100
+25,canon r236
+26,dell new xps 14
+27,cisco cvr100
+28,macbook pro md322
+29,philips za830
+30,hp 23-1019
